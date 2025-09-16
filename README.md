@@ -4,8 +4,9 @@
 Performing security testing on a sample web application(DVWA) to identify vulnerabilities like SQL injection, XSS, and authentication flaws.
 
 Target: DVWA (local lab via XAMPP)  
-Tools: OWASP ZAP, Browser (proxy), DVWA modules  
+Tools: OWASP ZAP, Fire fox Browser (proxy), DVWA modules  
 Date: September 2025  
+
 Author: Sasi Kumar Medabalimi
 
 ## Findings (Short) 🔍
