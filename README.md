@@ -1,6 +1,8 @@
 # FUTURE_CS_Task01 — DVWA Web App Security Testing
 
 ## Summary 🎯
+Performing security testing on a sample web application(DVWA) to identify vulnerabilities like SQL injection, XSS, and authentication flaws.
+
 Target: DVWA (local lab via XAMPP)  
 Tools: OWASP ZAP, Browser (proxy), DVWA modules  
 Date: September 2025  
